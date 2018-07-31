@@ -16,7 +16,7 @@
 
 ## 7月
 
-    日時: <date>2018/7/19 (木) 21:40~</date>
+    日時: 2018/7/19 (木) 21:40~
 
     参加者: いなご こやまん すずか たかし てつ とむ トルテ まこと もつ
             崎田 有田 杉野 森 片岡 菅原 藤井 長尾 飯塚 高橋
@@ -26,7 +26,12 @@
 + [春特練](https://github.com/plageoj/pastorale29/blob/master/行事.md#春特練)
 + [「ある」「アポロン」ジョイコン `否決`](https://github.com/plageoj/pastorale29/blob/master/行事/ジョイコン.md)
 + [ゆかたまつり、お祭り隊](https://github.com/plageoj/pastorale29/blob/master/行事/ゆかた祭り.md)
-+ お泊まり会
+
+    日時: 2018/7/21 (土) 18:22~
+
+    司会: 長尾
+
++ [お泊まり会](https://github.com/plageoj/pastorale29/blob/master/行事/お泊まり会.md)
 + 新入生歓迎関係について
 
         オリキャンをよけたい。時期については別途協議
@@ -35,7 +40,8 @@
     + 単独コンサート
     + MF
     + 体験練習
-+ ハーモニーディレクター、メトロノーム導入案
++ [ハーモニーディレクター、メトロノーム導入案](https://github.com/plageoj/pastorale29/blob/master/技術/備品.md)
++ 演奏旅行アンケート
 
 ## 8月
 
